@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "DecisionTree/ecs100.jar",
+        "Permutations/ecs100.jar"
+    ]
+}

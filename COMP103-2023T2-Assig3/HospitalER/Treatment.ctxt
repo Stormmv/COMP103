@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Treatment
+comment0.text=\r\n\ A\ Treatment\ is\ an\ object\ with\ two\ fields\:\r\n\ \ \ -\ the\ department\ the\ patient\ must\ be\ treated\ in,\ and\r\n\ \ \ -\ the\ time\ they\ will\ need\ to\ be\ treated.\r\n\ While\ they\ are\ receiving\ the\ treatment,\ the\ time\ remaining\ will\ be\ reduced\ on\ each\ time\ tick\r\n\ The\ initial\ treatment\ time\ is\ always\ at\ least\ 1\ tick.\r\n
+comment1.params=dept\ time
+comment1.target=Treatment(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDepartment()
+comment2.text=\r\n\ Return\ the\ department\ \r\n
+comment3.params=
+comment3.target=int\ getTimeRemaining()
+comment3.text=\r\n\ Return\ the\ treatment\ time\ remaining\ \r\n
+comment4.params=
+comment4.target=void\ advanceTime()
+comment4.text=\r\n\ Advance\ the\ treatment\ by\ one\ time\ tick\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Return\ a\ string\ to\ print\r\n
+numComments=6

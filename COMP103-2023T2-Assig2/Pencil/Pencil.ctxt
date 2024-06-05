@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Pencil
+comment0.text=Pencil
+comment1.params=
+comment1.target=void\ setupGUI()
+comment1.text=\r\n\ Setup\ the\ GUI\r\n
+comment2.params=action\ x\ y
+comment2.target=void\ doMouse(java.lang.String,\ double,\ double)
+comment2.text=\r\n\ Respond\ to\ mouse\ events\r\n
+comment3.params=arguments
+comment3.target=void\ main(java.lang.String[])
+numComments=4
